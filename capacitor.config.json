@@ -1,0 +1,9 @@
+{
+  "appId": "com.devabu.arcanemashup",
+  "appName": "Arcane Mashup",
+  "webDir": "www",
+  "backgroundColor": "#0b0a18",
+  "android": {
+    "allowMixedContent": false
+  }
+}
